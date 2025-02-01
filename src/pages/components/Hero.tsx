@@ -13,7 +13,7 @@ const Hero = () => {
             className="sm:order-1 order-2 lg:w-3/5 rounded-lg shadow-2xl shadow-white animate-pulse"
           />
           <div className="w-full pb-10 sm:pt-10 order-1">
-            <h1 className="lg:text-start text-center text-8xl animate-bounce">Tulus-dev</h1>
+            <h1 className="lg:text-start text-center lg:text-8xl sm:text-6xl text-4xl  animate-bounce">Tulus-dev</h1>
             <br />
             <br />
             <h1 className="lg:text-start lg:text-3xl text-3xl font-bold text-center text-purple-500">Welcome</h1>
